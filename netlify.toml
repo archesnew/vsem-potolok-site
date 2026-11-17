@@ -1,0 +1,26 @@
+[build]
+  publish = "site"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+# Fallback rewrite: ensure /backend/forms.php routes to the Netlify serverless lead function
+[[redirects]]
+  from = "/backend/forms.php"
+  to = "/.netlify/functions/lead"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/catalog/gantsevye/"
+  to = "/catalog/glyantsevye/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/catalog/gantsevye"
+  to = "/catalog/glyantsevye/"
+  status = 301
+  force = true
+
