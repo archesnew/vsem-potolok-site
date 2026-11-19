@@ -98,6 +98,5 @@ export default async (request) => {
 };
 
 export const config = {
-  path: "/backend/forms.php",
-  method: ["POST"],
+  path: ["/backend/forms.php", "/.netlify/functions/lead"]
 };

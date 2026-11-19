@@ -5,16 +5,36 @@
 [functions]
   node_bundler = "esbuild"
 
-# Fallback rewrite: ensure /backend/forms.php routes to the Netlify serverless lead function
+# 1. 301 Redirect old / default Netlify subdomain to official Russian domain всем-потолок.рф
 [[redirects]]
-  from = "/backend/forms.php"
-  to = "/.netlify/functions/lead"
-  status = 200
+  from = "https://vsem-potolok.netlify.app/*"
+  to = "https://xn----ctbjveepabgsr.xn--p1ai/:splat"
+  status = 301
   force = true
 
 [[redirects]]
-  from = "/catalog/gantsevye/"
-  to = "/catalog/glyantsevye/"
+  from = "http://vsem-potolok.netlify.app/*"
+  to = "https://xn----ctbjveepabgsr.xn--p1ai/:splat"
+  status = 301
+  force = true
+
+# 2. 301 Redirect /kazan/ to root to eliminate duplicate content
+[[redirects]]
+  from = "/kazan/*"
+  to = "/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kazan"
+  to = "/"
+  status = 301
+  force = true
+
+# 3. Typo redirects
+[[redirects]]
+  from = "/catalog/gantsevye/*"
+  to = "/catalog/glyantsevye/:splat"
   status = 301
   force = true
 
@@ -23,4 +43,3 @@
   to = "/catalog/glyantsevye/"
   status = 301
   force = true
-
