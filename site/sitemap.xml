@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Главная и базовые разделы -->
+  <url><loc>https://vsem-potolok.netlify.app/</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/catalog/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/prices/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/calculator/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/konstructor-sveta/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/works/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/reviews/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/status/</loc><lastmod>2026-11-17</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/about/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/delivery/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/warranty/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/faq/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/contacts/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/privacy/</loc><lastmod>2026-11-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+  <!-- Семантические кластеры: фактуры -->
+  <url><loc>https://vsem-potolok.netlify.app/catalog/matovye/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/catalog/glyantsevye/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/catalog/satinovye/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/catalog/tkanevye/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/catalog/dvuhurovnevye/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/catalog/reznye/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Семантические кластеры: по комнатам -->
+  <url><loc>https://vsem-potolok.netlify.app/v-gostinuyu/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/v-spalnyu/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/na-kuhnyu/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/v-vannuyu/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Трендовые технологии и свет -->
+  <url><loc>https://vsem-potolok.netlify.app/svetovye-linii/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/tenevoy-profil/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Услуги, финансы и B2B -->
+  <url><loc>https://vsem-potolok.netlify.app/posle-zatopleniya/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/rassrochka/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/partners/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/dlya-biznesa/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- База знаний и экспертные статьи -->
+  <url><loc>https://vsem-potolok.netlify.app/articles/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/articles/chto-snachala-oboi-ili-potolok/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/articles/kak-vybrat-osveshchenie/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/articles/tenevoy-potolok-eurokraab-plyusy-i-minusy/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/articles/kak-myt-natyazhnoy-potolok/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Города -->
+  <url><loc>https://vsem-potolok.netlify.app/kazan/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/moskva/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/sankt-peterburg/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/penza/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/nizhniy-novgorod/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/saratov/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/krasnodar/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/voronezh/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/saransk/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vsem-potolok.netlify.app/ulyanovsk/</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+</urlset>
