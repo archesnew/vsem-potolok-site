@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /backend/
-Disallow: /tools/
-
-Sitemap: https://vsem-potolok.netlify.app/sitemap.xml
